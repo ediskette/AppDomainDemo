@@ -1,0 +1,10 @@
+C:\Project\AppDomainDemo\AppDomainDemo\bin\Debug\AppDomainDemo.exe.config
+C:\Project\AppDomainDemo\AppDomainDemo\bin\Debug\AppDomainDemo.exe
+C:\Project\AppDomainDemo\AppDomainDemo\bin\Debug\AppDomainDemo.pdb
+C:\Project\AppDomainDemo\AppDomainDemo\bin\Debug\DemoLibrary.dll
+C:\Project\AppDomainDemo\AppDomainDemo\bin\Debug\DemoLibrary.pdb
+C:\Project\AppDomainDemo\AppDomainDemo\obj\Debug\AppDomainDemo.csprojResolveAssemblyReference.cache
+C:\Project\AppDomainDemo\AppDomainDemo\obj\Debug\AppDomainDemo.csproj.CoreCompileInputs.cache
+C:\Project\AppDomainDemo\AppDomainDemo\obj\Debug\AppDomainDemo.csproj.CopyComplete
+C:\Project\AppDomainDemo\AppDomainDemo\obj\Debug\AppDomainDemo.exe
+C:\Project\AppDomainDemo\AppDomainDemo\obj\Debug\AppDomainDemo.pdb
